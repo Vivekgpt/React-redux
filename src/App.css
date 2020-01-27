@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.addinfo{
+  width: 300px;
+  margin: 20px 0px 0px 500px;
+  background: whitesmoke;
+  padding: 10px 0px 10px 0px;
+}
+
+input {
+  height: 35px;
+  width: 180px;
+  margin: 10px;
+  font-size: large;
+  border-radius: 5px;
+}
+
+button {
+  height: 35px;
+  width: 100px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.dash {
+  display: flex;
+  margin: 20px 0px 0px 500px;
+}
+
+.table {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.tablehead {
+  background: black;
+  color: white;
+}
+
+.sortBtn {
+  height: 18px;
+  width: 30px;
+}
+
+.filter {
+  float: left;
+}
+
+.delete {
+  font-size: large;
+  height: 30px;
+  width: 30px;
+}
